@@ -1,0 +1,12 @@
+@import './styles/index.css';
+@import './styles/Header.css';
+@import './styles/Sidebar.css';
+@import './styles/Layout.css';
+@import './styles/Pages.css';
+@import './styles/Modal.css';
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
